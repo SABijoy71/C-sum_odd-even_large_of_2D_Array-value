@@ -1,4 +1,4 @@
-// Todays lesson is about Two-Dimentinal Array;
+// Sum of multiplication table all value and find how many value has odd and even in this array using 2D Array;
 
 #include <stdio.h>
 #include <math.h>
